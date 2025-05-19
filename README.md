@@ -1,2 +1,2 @@
 # Repositorio-skillnest
-un repositorio para practicar la integración con git
+Un repositorio para practicar la integración con git. 2025
